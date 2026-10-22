@@ -28,6 +28,9 @@ locales/firefox-l10n/
 
 mozconfig
 
+ios/ZenCompanion/.build/
+ios/ZenCompanion/.swiftpm/
+
 build/signing/env/
 build/signing/nss_config/
 build/signing/cert.pem
